@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# NetBeans
+build/
+dist/
+nbproject/private/
+
+# Java
+*.class
+*.jar
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store

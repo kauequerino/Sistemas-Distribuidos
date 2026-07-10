@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package model;
+
+/**
+ *
+ * @author kaueq
+ */
+
+// DTO usado para retornar usuários na lista do ADM
+public class UsuarioLista {
+    public String usuario;
+    public String nome;
+}

@@ -1,0 +1,6 @@
+model\UsuarioLista.class
+network\ClientConnection.class
+model\Response.class
+service\ClientService.class
+main\ClientMain.class
+model\Request.class

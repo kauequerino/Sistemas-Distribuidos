@@ -1,0 +1,11 @@
+service\TokenUtil.class
+service\ValidationService.class
+service\AuthService.class
+service\UserService.class
+model\Response.class
+service\ProtocolService.class
+network\ClientHandler.class
+main\ServerMain.class
+util\ResponseUtil.class
+model\Request.class
+storage\DataStore.class
